@@ -4,7 +4,9 @@
     font-family: "Cairo", sans-serif;
 
 }
-
+#whatsapp{
+    cursor: pointer;
+}
 #cornur{
     width: 400px;
     height: 300px;

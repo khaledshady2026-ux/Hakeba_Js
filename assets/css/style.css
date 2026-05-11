@@ -1239,6 +1239,24 @@ width: auto;
 .Footer .Footer_Data .Footer_Social a img{
     visibility: visible !important;
 }
+
+.Popup_Content {
+    margin-right: 25px;
+}
+.Popup_Content h3 {
+    color: #fff;
+    width: 95%;
+}
+
+#cornur{
+    width: 250px;
+    height: 150px;
+}
+#cornur{
+    bottom: 30px;
+}
+
+
 }
  /* .WhatsApp{
         position: fixed;

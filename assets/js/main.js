@@ -154,4 +154,5 @@ setTimeout(function() {
 closeCornur.onclick = function() {
     cornur.style.left = "-900px";
 }
+// ####################################################
 

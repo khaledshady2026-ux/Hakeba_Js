@@ -900,9 +900,26 @@ body {
         margin: 0;
         display: block;
     }
-        
+    .Contact .Contact_Data .Form .Bilateral .Form_Contact {
+        width: 100%;
+    }
+   .Contact .Contact_Data .Form .Bilateral {
+        width: 100%;
+        display: block;
+    }
+    .Form_Contact span {
+        height: 20px;
+        padding-top: 0px;
+        margin-bottom: 5px;
+        margin-top: 0px;
+        padding-bottom: 10px;
+     }
+    .Contact .Contact_Data .Form .Form_Contact input {
+        height: 47px;
+        font-size: 16px;
+    }
     .Hero-section .Hero_Data .Hero_Icons{
-            width: auto;
+      width: auto;
     }
 
     .Hero-section .Hero_Data .Hero_Img {

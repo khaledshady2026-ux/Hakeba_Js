@@ -907,6 +907,9 @@ body {
         width: 100%;
         display: block;
     }
+    .Smart_Classes_Data .Smart_Classes_Info p {
+        width: 100%;
+    }
     .Form_Contact span {
         height: 20px;
         padding-top: 0px;
@@ -1129,7 +1132,6 @@ width: auto;
     height: 38px;
 }
 .Smart_Classes_Data .Smart_Classes_Info p {
-    width: 96%;
     font-size: 16px;
     margin-bottom: 0;
 }

@@ -159,6 +159,6 @@ closeCornur.onclick = function() {
 let whatsapp = document.getElementById("whatsapp");
 
 whatsapp.onclick = function() {
-    window.open("https://wa.me/201027626552?text= نورت واتساب يا غالي.");
+    window.open("https://wa.me/201027626552?text= نورت واتساب يا غاليش ..احمدسرور هاهاها.");
 }
 
